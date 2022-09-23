@@ -29,6 +29,7 @@
 - [NYL] (https://github.com/nyyelin)
 - [Anushka Bhandari](https://github.com/Anushkabh)
 - [Folarin]
+- [LainTS](https://github.com/laindomJS)
 - [Caleb Lugo] (https://github.com/CNL-Dev)
 - [Chyana](https://github.com/chyana)
 - [Aryansh Rana](https://github.com/Aryanshrana)
@@ -3239,6 +3240,7 @@
 - [erma0x](https://github.com/erma0x)
 - [APARNA BISHT](https://github.com/bishtaparna)
 - [Szyman98](https://github.com/Szyman98)
+- [French](https://github.com/mfrench730)
 - [Slimlix Hsu](https://github.com/Slimlix1101)
 - [phcbest](https://phcbest.github.io/)
 - [MRJD](https://github.com/MartinRJDagleish)
